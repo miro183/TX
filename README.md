@@ -10,11 +10,11 @@
         языки программирования
         <div class="TwoDiv">
             <div class="uu"> <a class="uu"  href="1 str.html" >C++</a></div>
-            <div class="uu"><a class="uu" href="2 str.html"id="myElement" >C#</a></div>
-            <div class="uu"><a class="uu" href="3 str.html"id="myElement">Java</a></div>
-            <div class="uu"><a class="uu" href="4 str.html"id="myElement">JavaScript</a></div>
-            <div class="uu"><a class="uu" href="5 str.html"id="myElement">Python</a></div>
-            <div class="uu"><a class="uu" href="6 str.html"id="myElement">Kotlin</a></div>
+            <div class="uu"><a class="uu" href="2 str.html" >C#</a></div>
+            <div class="uu"><a class="uu" href="3 str.html">Java</a></div>
+            <div class="uu"><a class="uu" href="4 str.html">JavaScript</a></div>
+            <div class="uu"><a class="uu" href="5 str.html">Python</a></div>
+            <div class="uu"><a class="uu" href="6 str.html">Kotlin</a></div>
         </div>
     </div>
     <script>
