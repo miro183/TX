@@ -1,0 +1,39 @@
+.top-strip {
+    width: 100%;
+    height: 400px;
+    background-color: #333; /* цвет фона, при необходимости можно изменить */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff; /* цвет текста */
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    opacity: 0.8;
+    border-radius: 0px 0px 50px 50px;}
+p{color: white;}
+body {
+    background-image: url('https://avatars.mds.yandex.net/i?id=6a75d7208ebc2ce3330a5f55ab1cd6bc_l-4720855-images-thumbs&n=13');
+    background-size: cover; /* чтобы картинка покрывала весь фон без искажения */
+    background-position: center; /* чтобы картинка была по центру */
+    background-repeat: no-repeat; /* чтобы картинка не повторялась */
+    height: 130vh;}
+.uu {
+    background: aqua;
+    border-radius: 50px;
+    border: solid 1px black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;}
+.text{
+    color: white;
+    background: aqua;
+    border-radius: 50px;
+    border: solid 3px white;
+    padding: 15px;
+    margin-top: 20px;
+    width: 70%;
+    margin-left: 10%;}
